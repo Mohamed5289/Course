@@ -1,3 +1,4 @@
+
 # Course Content API
 
 ## Overview
@@ -70,5 +71,11 @@ This project is a **Course Management System** that provides **22 API endpoints*
 - **JWT Authentication & Refresh Tokens**
 - **Entity Framework Core (EF Core)**
 - **SQL Server (Database)**
-<hr>
-## Demo: https://mentorshiphub.bsite.net/swagger/index.html
+
+---
+
+## Demo
+You can explore and test the API using the following Swagger link:
+[Course Content API Demo](https://mentorshiphub.bsite.net/swagger/index.html)
+
+
